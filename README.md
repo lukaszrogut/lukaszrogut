@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lukaszrogut
 - 👀 I’m interested in AI, tech and sports
-- 🌱 I’m currently learning TypeScript and OpenAI
+- 🌱 I’m currently learning TypeScript and NextJS
 
 <!---
 lukaszrogut/lukaszrogut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
